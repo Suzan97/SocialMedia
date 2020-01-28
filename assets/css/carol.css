@@ -1,0 +1,30 @@
+div#container{text-align:left}
+div#navigation a{text-decoration: none; color: black;}
+div#navigation a:hover{text-decoration: none; color: e5474b;}
+
+div#navigation ul{margin:20px 0; padding:0; list-style-type:none;}
+div#navigation li{margin-bottom:30px; border-bottom: 1px solid gray;}
+div#extra{width: 200px;margin-top: 20px;}
+div#footer{background:#BFBD93;}
+
+div#container{width:700px;margin:0 auto;}
+div#wrapper{float:left;width:100%}
+div#content{margin: 0 420px; margin-top: 20px;}
+div#navigation{float:left;width:250px;margin-left:-1240px;margin-top: 0 auto;}
+div#extra{float:left;width:200px;margin-left:-300px;}
+div#footer{clear:left;width:100%;}
+
+div.navprof{height:120px; width: 100%; margin-top: 40px; background-color: aqua;}
+
+div#extra ul{margin:20px 0; padding:0; list-style-type:none;}
+
+div#extra img{/*border-radius: 80%;*/ padding-right: 13px;}
+div#extra a{color: e5474b; text-decoration: none;}
+div#extra a{color: e5474b; text-decoration: none;}
+
+/*div#navigation img{padding-left: 30px; /*border-radius: 50%;margin-bottom: 20%;}*/
+
+div#navigation li img{width: 51px; height: 30px; padding-right: 17px;}
+
+/*css for cover photo in timeline*/
+div.coverphoto{width: 1200px;height:400px; padding-left: 8%; }
